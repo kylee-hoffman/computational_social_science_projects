@@ -1,0 +1,17 @@
+git clone https://github.com/kylee-hoffman/computational_social_science_projects
+
+cd computational_social_science_projects
+
+mkdir project_1
+
+cd project_1
+
+touch project_1.txt
+
+vim project_1.txt
+
+git add .
+
+git commit -m "initial commit"
+
+git push
